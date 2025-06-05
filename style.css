@@ -51,7 +51,7 @@ body{
   display:flex;
   flex-direction:column;
   align-items:stretch;
-  justify-content:center
+  justify-content:center;
   flex:1;
   background-color:rgb(238, 238, 238);
   height:100vh;
